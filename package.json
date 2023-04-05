@@ -1,0 +1,40 @@
+{
+  "name": "react-gmail-client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/react-fontawesome": "^0.1.5",
+    "bootstrap": "^4.3.1",
+    "gapi-script": "^1.2.0",
+    "moment": "^2.24.0",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-google-button": "^0.5.3",
+    "react-perfect-scrollbar": "^1.5.3",
+    "react-quill": "^1.3.3",
+    "react-redux": "^5.1.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "3.2.0",
+    "reactstrap": "^6.5.0",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "sass": "^1.60.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
